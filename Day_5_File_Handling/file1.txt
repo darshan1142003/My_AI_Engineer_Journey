@@ -1,0 +1,6 @@
+Darshan Rajesh Gurav
+python
+SQL
+numpy
+pandas
+react
